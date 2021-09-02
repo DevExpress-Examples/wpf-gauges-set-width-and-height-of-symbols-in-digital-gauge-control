@@ -1,11 +1,11 @@
-﻿Imports Microsoft.VisualBasic
-Imports System.Windows
+﻿Imports System.Windows
 Imports DevExpress.Xpf.Gauges
 
 Namespace Digital_Gauge
 
 	Partial Public Class MainWindow
 		Inherits Window
+
 		Public Sub New()
 			InitializeComponent()
 		End Sub
@@ -17,7 +17,7 @@ Namespace Digital_Gauge
 			matrixView.Width = newWidth
 			Dim newHeight As New SymbolLength(SymbolLengthType.Fixed, 50)
 			matrixView.Height = newHeight
-'			#End Region
+'			#End Region ' #SetSymbolSize
 		End Sub
 
 		Private Sub button2_Click(ByVal sender As Object, ByVal e As RoutedEventArgs)
@@ -27,7 +27,7 @@ Namespace Digital_Gauge
 			matrixView.Width = newWidth
 			Dim newHeight As New SymbolLength(SymbolLengthType.Proportional, 5)
 			matrixView.Height = newHeight
-'			#End Region
+'			#End Region ' #SetSymbolSize
 		End Sub
 	End Class
 End Namespace

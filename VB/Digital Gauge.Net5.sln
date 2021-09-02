@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 16
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Digital Gauge", "Digital Gauge.Net5.vbproj", "{1D931EC0-C3E4-46A7-8D58-DBA6131C7C8B}"
 EndProject
