@@ -7,22 +7,21 @@
         <dxga:DigitalGaugeControl Text="Hello!!!" 
                                   VerticalAlignment="Center">
             <dxga:DigitalGaugeControl.Layers>
-                <dxga:DigitalGaugeLayer>
-                </dxga:DigitalGaugeLayer>
+                <dxga:DigitalGaugeLayer/>
             </dxga:DigitalGaugeControl.Layers>
             <dxga:DigitalGaugeControl.Model>
-                <dxga:DigitalCleanWhiteModel />
+                <dxga:DigitalCleanWhiteModel/>
             </dxga:DigitalGaugeControl.Model>
             <dxga:DigitalGaugeControl.SymbolView>
-                <dxga:MatrixView8x14 x:Name="matrixView">
-                </dxga:MatrixView8x14>
+                <dxga:MatrixView8x14 x:Name="matrixView"/>
             </dxga:DigitalGaugeControl.SymbolView>
         </dxga:DigitalGaugeControl>
+        
         <Button Name="button1" Content="Set Fixed Size" Click="button1_Click"
-                Height="58" Width="172" Margin="5,2,0,0" FontSize="14" 
+                Height="30" Width="172" Margin="5,2,0,0" FontSize="14" 
                 HorizontalAlignment="Left" VerticalAlignment="Top"  />
         <Button Name="button2" Content="Set Proportional Size" Click="button2_Click"
-                Height="58" Width="172" Margin="0,2,5,0" FontSize="14" 
+                Height="30" Width="172" Margin="0,2,5,0" FontSize="14" 
                 HorizontalAlignment="Right" VerticalAlignment="Top"  />
     </Grid>
 </Window>
