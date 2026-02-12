@@ -30,7 +30,7 @@ This example demonstrates how to specify the width and height of digital gauge s
 * [WPF Gauges Getting Started - Create a Digital Gauge](https://github.com/DevExpress-Examples/dxgauges-getting-started-lesson-3-create-a-digital-gauge-e3517)
 * [WPF Gauges - Customize the Digital Gauge Control](https://github.com/DevExpress-Examples/how-to-use-a-digital-gauge-control-e3525)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-gauges-set-width-and-height-of-symbols-in-digital-gauge-control&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-gauges-set-width-and-height-of-symbols-in-digital-gauge-control&~~~was_helpful=no)
 
